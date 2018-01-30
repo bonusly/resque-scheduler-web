@@ -1,5 +1,5 @@
 module Resque
-  module Scheduler
+  class Scheduler
     module Web
       VERSION = '1.1.0'
     end
